@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Fijar resultados aleatorios
+# Fijar resultados aleatorios (semilla para inicialización)
 np.random.seed(42)
 
 # Número de transacciones
